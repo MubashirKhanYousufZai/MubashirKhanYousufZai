@@ -65,9 +65,16 @@ Built using **Next.js**, **GroqAI API**, and **modern UI components** for a clea
 
 ---
 
-## 📈 GitHub Stats
-![Mubashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MubashirKhanYousufZai&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MubashirKhanYousufZai&layout=compact&theme=radical)
+## 📊 GitHub Stats & Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MubashirKhanYousufZai&show_icons=true&theme=tokyonight&hide_border=true" alt="Mubashir's GitHub stats" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MubashirKhanYousufZai&theme=tokyonight&hide_border=true" alt="Mubashir's GitHub streak" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashirKhanYousufZai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165em"/>
+</p>
 
 ---
 
