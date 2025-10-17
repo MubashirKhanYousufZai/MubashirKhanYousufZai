@@ -46,18 +46,22 @@ Built using **Next.js**, **GroqAI API**, and **modern UI components** for a clea
 
 <p align="center">
   <a href="https://mubashir-khans-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Portfolio" width="45" height="45"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mubashir-khan-538a662bb" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://x.com/MubashirKh67451" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter(X)-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X (Twitter)" width="45" height="45"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:mubashirmpa2008@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="45" height="45"/>
   </a>
 </p>
+
 
 ---
 
